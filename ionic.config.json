@@ -1,0 +1,7 @@
+{
+  "name": "kwbcyy-portfolio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
