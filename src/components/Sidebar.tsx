@@ -11,7 +11,7 @@ export const Sidebar: React.FC = () => (
       </IonHeader>
       <IonContent>
         <IonList>
-          <IonItem>Introduction</IonItem>
+          <IonItem>Introduction1</IonItem>
           <IonItem>About</IonItem>
           <IonItem>Timeline</IonItem>
         </IonList>
